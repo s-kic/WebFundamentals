@@ -1,5 +1,7 @@
 project_path: /web/_project.yaml
 book_path: /web/updates/_book.yaml
+translators:
+    - skikuchi
 
 {# wf_updated_on: 2019-02-06 #}
 {# wf_published_on: 2019-02-06 #}
